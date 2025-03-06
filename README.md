@@ -1,4 +1,4 @@
-# 📌 Jogo de Adivinhação de Número
+# 📌 7DaysOfCode-4dia
 
 ## 🧑 Sobre o Autor
 
